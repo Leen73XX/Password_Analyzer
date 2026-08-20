@@ -1,14 +1,7 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
+
 package passwordanalyzerproject;
 
-/**
- *
- * @author groub 6 444008474 فاطمة الصفي شيخة الكلثم 444008417 لين ال مجري
- * 444008462 444008463نجور المسلم هديل الرشيدي 444010690
- */
+
 import java.io.*;
 import java.util.*;
 import java.util.regex.*;
