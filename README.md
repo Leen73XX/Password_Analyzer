@@ -57,7 +57,7 @@ G7@mQ2#kLp9!
 
 ## Future Improvements
 
-### Possible improvements include:
+#### Possible improvements include:
 - Expanding the dictionary word database
 - Adding password strength levels
 - Creating a graphical user interface (GUI)
