@@ -38,11 +38,14 @@ The application prompts the user to enter a password and analyzes it based on se
 ## Example
 
 Enter your password: password123
+
 Password rejected.
+
 Reasons:
 - Contains a dictionary word
 - Does not contain an uppercase letter
 - Does not contain a special character
+  
 Suggested Password:
 G7@mQ2#kLp9!
 
