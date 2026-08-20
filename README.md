@@ -8,17 +8,17 @@ The application prompts the user to enter a password and analyzes it based on se
 
 ## Features
 
-### Validates password length between 8 and 16 characters
-### Detects and rejects passwords containing dictionary words
-### Detects repetitive characters or numbers
-### Detects sequential characters or numbers
-### Ensures the password contains at least:
+#### Validates password length between 8 and 16 characters
+#### Detects and rejects passwords containing dictionary words
+#### Detects repetitive characters or numbers
+#### Detects sequential characters or numbers
+#### Ensures the password contains at least:
   - One uppercase letter
   - One lowercase letter
   - One number
   - One special character
-### Rejects passwords that follow an email-like structure
-### Generates a secure password suggestion when the entered password is rejected
+#### Rejects passwords that follow an email-like structure
+#### Generates a secure password suggestion when the entered password is rejected
 
 ## Technologies Used
 
@@ -48,7 +48,7 @@ G7@mQ2#kLp9!
 
 ## Security Concepts
 
-### This project demonstrates basic password security concepts such as:
+#### This project demonstrates basic password security concepts such as:
 - Password complexity validation
 - Pattern detection
 - Dictionary-based password checking
